@@ -1,0 +1,4 @@
+﻿  CPlusPlusPract2.cpp
+C:\mpt\С#\CPlusPlusPract2\CPlusPlusPract2\CPlusPlusPract2.cpp(133,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\mpt\С#\CPlusPlusPract2\CPlusPlusPract2\CPlusPlusPract2.cpp(156,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CPlusPlusPract2.vcxproj -> C:\mpt\С#\CPlusPlusPract2\x64\Debug\CPlusPlusPract2.exe
